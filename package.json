@@ -1,0 +1,17 @@
+{
+  "name": "todoList",
+  "version": "1.0.0",
+  "description": "create input bar have input sent to list",
+  "main": "index.js",
+  "dependencies": {
+    "global": "^4.3.2",
+    "parcel-bundler": "^1.12.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
